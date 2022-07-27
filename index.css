@@ -6,7 +6,7 @@ html {
   color: white;
 }
 body {
-  background: url(./images/back12.jpg) no-repeat center center fixed;
+  background: url(/images/back12.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 #vanta {
